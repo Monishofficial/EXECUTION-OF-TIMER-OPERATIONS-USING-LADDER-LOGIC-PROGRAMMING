@@ -78,22 +78,13 @@ ON-Delay Timer: The output LED or indicator should turn on after a specified del
 OFF-Delay Timer: The output should remain on for the specified delay after the input is deactivated, and then it should turn off.
 Retentive Timer: The output should turn on after the accumulated time reaches the preset value, and it should retain the accumulated time even if the input is turned off.
 
-
 # Simulation Screenshots 
 
+## ON-Delay Timer:
+![image](https://github.com/user-attachments/assets/2c58af79-90aa-4d6a-8c2c-6a67e869213d)
 
-
-
-
-
-
-
-
-
-
-
-
-
+## OFF-Delay Timer:
+![image](https://github.com/user-attachments/assets/e2bf9c37-61fd-4340-953a-ff428fe62b4f)
 
 # Results:
 The ladder logic programs for ON-delay, OFF-delay, and Retentive timers were successfully implemented and tested.
