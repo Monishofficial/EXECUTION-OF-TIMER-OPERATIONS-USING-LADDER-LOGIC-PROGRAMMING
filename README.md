@@ -2,8 +2,8 @@
 
  ### NAME : MONISH N
  #### REGISTER NUMBER : 212223240097
- #### DEPARTMENT:AI&ML
- #### YEAR:2 
+ #### DEPARTMENT: AI&ML
+ #### YEAR: 2 
 
  
 ## Aim:
